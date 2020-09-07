@@ -46,5 +46,5 @@ function controlAlts() {
 
 
 function gotogit() {
-	window.location = 'https://github.com/ThePlasmaRailgun/cdn.dlcordapp.com'
+	window.location = 'https://github.com/PlutonLib/Discord-Trickery'
 }
