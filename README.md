@@ -1,5 +1,5 @@
 # Discord-Trickery
-When you send a pic and it isn't a pic anymore.
+When you send a pic and it isn't a pic anymore. I will add new memes for discord trickery (01 Jan 2021)
 
 (Sorry for 1p GIFs.)
 
