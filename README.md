@@ -20,4 +20,4 @@ When you send a pic and it isn't a pic anymore. I will add new memes for discord
 5.
 ![](img/AA5.gif)
 
-LuL i just used HTTrack XDD.
+Lol, i just used HTTrack XDD.
