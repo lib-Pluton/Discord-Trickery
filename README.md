@@ -6,18 +6,18 @@ When you send a pic and it isn't a pic anymore. I will add new memes for discord
 ### Tutorial:
 
 1.
-![](tricker/AA3.gif)
+![](img/AA3.gif)
 
 2.
-![](tricker/AA2.gif)
+![](img/AA2.gif)
 
 3.
-![](tricker/AA1.gif)
+![](img/AA1.gif)
 
 4.
-![](tricker/AA4.gif)
+![](img/AA4.gif)
 
 5.
-![](tricker/AA5.gif)
+![](img/AA5.gif)
 
-OPENSOURCE OR 0PENS0URCE!
+LuL i just used HTTrack XDD.
